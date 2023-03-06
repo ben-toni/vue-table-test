@@ -1,0 +1,25 @@
+{
+  "name": "vue-table-test",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "moment": "^2.29.4",
+    "vue": "^2.7.7",
+    "vue-router": "^3.5.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^2.0.0",
+    "@vitejs/plugin-vue2": "^1.1.2",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "sass": "^1.58.3",
+    "sass-loader": "^13.2.0",
+    "tailwindcss": "^3.2.7",
+    "terser": "^5.14.2",
+    "vite": "^3.0.2"
+  }
+}
